@@ -3,7 +3,7 @@
 
 def number_of_words(book_text):
     num_words = len(book_text.split())
-    print(f"{num_words} words found in the document")
+    print(f"Found {num_words} total words")
 
 # count each character
 
